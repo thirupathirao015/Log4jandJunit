@@ -12,6 +12,7 @@ public class App {
              Hello hello =new Hello();
              hello.setMessage("Thirupathi");
              hello.sayHello();
+             System.out.println("hi thirupathi:this is log4j completed");
      }
 
 
